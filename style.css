@@ -287,6 +287,18 @@ body {
   right: 5px;
 }
 
+.video-live {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px;
+  border-radius: 2px;
+  background-color: #ff0000;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+  right: 5px;
+}
+
 input[type="text"] {
   background-color: #121212;
   color: #ffffff;
