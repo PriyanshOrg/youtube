@@ -215,6 +215,12 @@ body {
 
 .thumbnail {
   width: 100%;
+  border-radius: 10px;
+  transition: .2s linear;
+}
+
+.thumbnail:hover {
+  border-radius: 0;
 }
 
 .video-title {
